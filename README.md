@@ -28,10 +28,12 @@ I'm driven by the challenge of developing functional solutions that combine logi
 <h2>📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harry-GNS&show_icons=true&theme=dark" alt="GitHub Stats" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-GNS&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-GNS&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-GNS&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 
 <h2>🔗 Links</h2>
