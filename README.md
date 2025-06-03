@@ -13,7 +13,7 @@
 <p>
 I'm driven by the challenge of developing functional solutions that combine logical structure, intentional design, and practical value. While I'm still in training, I have a strong interest in continuously learning about application development, productivity tools, creative technologies, and database systems. I also value personal growth through activities like drawing, writing, and sports, which help balance and enrich my technical journey.
 </p>
-
+  
 <h2>🛠️ Skills & Technologies</h2>
 
 <p align="left">
@@ -25,11 +25,14 @@ I'm driven by the challenge of developing functional solutions that combine logi
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-<h2>📈 Stats</h2>
+<h2>📊 GitHub Overview</h2>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-GNS&show_icons=true&theme=dark" alt="GitHub Stats" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-GNS&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+
 
 <h2>🔗 Links</h2>
 
