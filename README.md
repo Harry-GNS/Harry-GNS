@@ -40,5 +40,5 @@ I'm driven by the challenge of developing functional solutions that combine logi
 
 <p>
 📄 To learn more about me, visit my personal website:  
-<a href="https://harry-gns.github.io/" target="_blank">https://harry-gns.github.io/</a>
+<a href="https://harry-gns.github.io/PersonalPage/" target="_blank">https://harry-gns.github.io/</a>
 </p>
