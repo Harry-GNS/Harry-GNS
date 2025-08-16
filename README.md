@@ -34,12 +34,12 @@ I'm driven by the challenge of developing functional solutions that combine logi
 <h2>📊 GitHub Overview</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harry-GNS&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry-GNS&theme=dark" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Harry-GNS&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-GNS&layout=compact&theme=dark&langs_count=6&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-GNS&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harry-GNS&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 
@@ -66,10 +66,6 @@ I'm driven by the challenge of developing functional solutions that combine logi
 </p>
 
 <hr>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harry-GNS&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 <div align="center">
   <h3>💫 Thanks for visiting my profile! Feel free to reach out for collaborations or just to say hi! 🚀</h3>
